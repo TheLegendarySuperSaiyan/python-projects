@@ -1,5 +1,5 @@
-n1 = int(input("Enter Your Number"))
-n2 = int(input("Enter Your Number"))
+n1 = float(input("Enter Your Number"))
+n2 = float(input("Enter Your Number"))
 
 n3 = n1 + n2
 
